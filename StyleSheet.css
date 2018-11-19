@@ -1,76 +1,76 @@
 			
-			
-			body { 	
+
+			body {
 				background-image: url(images/Background2.jpg);
-				background-repeat: no-repeat;				
+				background-repeat: no-repeat;
 				}
-				
-				
-				
-				
-				
+
+
+
+
+
 			ul {
 				list-style: none outside none;
 				text-align: center;
-				} 
+				}
 
 			ul.ingredients{
 				text-align: left;
 				font-family:"Futur";
 				font-size: 22;
-				} 				
+				}
 
-				
-				
+
+
 			li {
-				display: inline-block;	
-				color: #333333;
-				}		
-				
-			li.ingredients {
-				display: block;	
+				display: inline-block;
 				color: #333333;
 				}
-				
+
+			li.ingredients {
+				display: block;
+				color: #333333;
+				}
+
 			li a:hover:not(.active):not(.dropbtnactive) {
 				background-color: #f2f2f2;
 				}
-	
+
 			li a, .dropbtn {
 				display: inline-block;
-				display: block;				
+				display: block;
 				color: #333333;
 				padding: 10 67;
 				text-decoration: none;
 				}
-			
+
 			li a.active {
 				color: #333333;
 				background-color: #d9d9d9;
-				}	
-				
+				}
+
 
 			i a, .dropbtnactive {
-				display: inline-block;		
+				display: inline-block;
 				color: #333333;
-				background-color: #d9d9d9;				
+				background-color: #d9d9d9;
 				}
-			
-			
-			
-			
-			
+
+
+
+
+
 			a {
 				font-size: 20px;
 				font-family:"Futur";
-				color: #000000;				
-				}				
-			
+				color: #000000;
+				}
+
 			a:hover {
 				color: #404040;
 				}
-				
-				
+
+
 
 
 
@@ -80,8 +80,8 @@
 
 			div.dropdown:hover .dropdown-content {
 				display: block;
-				}			
-				
+				}
+
 			div.dropdown-content {
 				display: none;
 				position: absolute;
@@ -93,23 +93,23 @@
 			div.dropdown {
 				display: inline-block;
 				}
-			
+
 			div.center {
 				margin: auto;
-				width: 1000;	
-				height: 3500;				
+				width: 1000;
+				height: 3500;
 				margin-bottom: 0;
 				margin-top: 30;
-				}		
-				
+				}
+
 			div.centerimg {
 				position: Relative;
 				margin: auto;
 				width: 250;
-				height: 200;		
+				height: 200;
 				margin-top: -110px;
-				}	
-				
+				}
+
 			div.Logo {
 				width: 240;
 				height: 200;
@@ -121,13 +121,13 @@
 				height: 550;
 				padding: 30;
 				background-color: #f2f2f2;
-				}	
-				
+				}
+
 			div.award {
 				position: Relative;
 				bottom: 1130px;
 				}
-				
+
 			div.cookbook {
 				position: Relative;
 				width: 270;
@@ -138,7 +138,7 @@
 				right: 20;
 				background-color: #f2f2f2;
 				}
-				
+
 			div.header1 {
 				position: Relative;
 				width: 675;
@@ -146,7 +146,7 @@
 				left: 350;
 				bottom: 610;
 				}
-				
+
 			div.header2 {
 				position: Relative;
 				width: 675;
@@ -154,23 +154,23 @@
 				left: 350;
 				bottom: 1540;
 				}
-				
+
 			div.News1 {
 				position: Relative;
 				width: 675;
 				height: 1000;
 				left: 325;
 				bottom: 640;
-				}				
-				
+				}
+
 			div.News2 {
 				position: Relative;
 				width: 675;
 				height: 1000;
 				left: 325;
 				bottom: 1550;
-				}				
-					
+				}
+
 			div.seasons {
 				position: Relative;
 				width: 215;
@@ -187,8 +187,8 @@
 				padding-top: 5;
 				bottom: 100;
 				background-image: url("images/divbackground.png");
-				}	
-				
+				}
+
 			div.details {
 				position: Relative;
 				width: 400;
@@ -204,20 +204,20 @@
 				height: 400;
 				bottom: 800;
 				}
-				
+
 			div.Center2 {
 				width: 900;
 				background-color: #f2f2f2;
 				padding: 50;
-				}	
+				}
 
 			div.Center3 {
 				width: 925;
 				height: 900;
 				background-color: #f2f2f2;
 				padding: 40;
-				
-				}				
+
+				}
 
 			div.ingredients {
 				position: Relative;
@@ -230,16 +230,16 @@
 			div.feeding {
 				position: Relative;
 				left: 210;
-				}				
-				
-				
-				
-				
-				
+				}
+
+
+
+
+
 			h1 {
 				color: #333333;
 				}
-			
+
 			h1.Logo {
 				font-size: 70px;
 				text-align: center;
@@ -248,7 +248,7 @@
 				line-height: 0;
 				letter-spacing: 12px;
 				}
-				
+
 			h1.Recipe {
 				font-size: 80px;
 				text-align: center;
@@ -256,7 +256,7 @@
 				color: #d9d9d9;
 				line-height: 100%;
 				}
-				
+
 			h1.LogoSmall {
 				font-size: 35px;
 				text-align: Center;
@@ -271,8 +271,8 @@
 				text-align: Center;
 				font-family:"Constantia";
 				color: #000000;
-				}	
-				
+				}
+
 			h1.Title3 {
 				font-size: 50px;
 				text-align: Center;
@@ -286,7 +286,7 @@
 				color: #000000;
 				letter-spacing: 1px;
 				line-height: 0%;
-				}	
+				}
 
 			h1.date {
 				font-size: 25px;
@@ -304,16 +304,16 @@
 				letter-spacing: 1px;
 				display: inline-block;
 				line-height: 0%;
-				}				
-				
+				}
+
 			h1.link {
 				font-size: 60px;
 				text-align: Center;
 				font-family:"Constantia";
 				color: #000000;
 				letter-spacing: -1px;
-				}				
-								
+				}
+
 			h1.season {
 				font-size: 70px;
 				text-align: Center;
@@ -321,7 +321,7 @@
 				color: #000000;
 				}
 
-				
+
 			h1.description {
 				font-size: 30px;
 				text-align: Center;
@@ -329,62 +329,49 @@
 				font-weight: bold;
 				color: #000000;
 				}
-				
+
 			h1.title {
 				font-size: 50px;
 				font-family:"Futur";
 				color: #000000;
 				}
-				
+
 			h1.title2 {
 				font-size: 50px;
 				font-family:"Futur";
 				color: #000000;
 				text-align: Center;
 				}
-				
-				
-				
-				
-			p {	
+
+
+
+
+			p {
 				color: #333333;
-				text-align: center;	
-				font-family:"Futur";	
-				}		
-			
-			p.logo {				
+				text-align: center;
+				font-family:"Futur";
+				}
+
+			p.logo {
 				font-size: 12px;
 				text-align: Center;
 				}
-				
-			p.description {				
+
+			p.description {
 				font-size: 20px;
 				text-align: Center;
 				}
-				
-			p.introduction {				
+
+			p.introduction {
 				font-size: 20px;
 				text-align: Center;
 				}
-			
-			p.about {				
+
+			p.about {
 				font-size: 25px;
 				text-align: Center;
 				}
-				
-				
-			@font-face { font-family: Futur; src: url('Fonts/Futur.otf'); } 
-			@font-face { font-family: Script; src: url('Fonts/Script.ttf'); } 
 
 
-
-
-
-
-
-
-
-
-
-
-				
+			@font-face { font-family: Futur; src: url('Fonts/Futur.otf'); }
+			@font-face { font-family: Script; src: url('Fonts/Script.ttf'); }
